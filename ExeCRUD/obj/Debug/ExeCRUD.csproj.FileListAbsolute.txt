@@ -1,0 +1,11 @@
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\bin\Debug\ExeCRUD.exe.config
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\bin\Debug\ExeCRUD.exe
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\bin\Debug\ExeCRUD.pdb
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.csproj.AssemblyReference.cache
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.Form1.resources
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.Form2.resources
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.Properties.Resources.resources
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.csproj.GenerateResource.cache
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.csproj.CoreCompileInputs.cache
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.exe
+C:\Users\62813\source\repos\ExeCRUD\ExeCRUD\obj\Debug\ExeCRUD.pdb
